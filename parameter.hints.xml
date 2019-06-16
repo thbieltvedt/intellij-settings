@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java" />
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin">
+        <added pattern="org.gradle.script.lang.kotlin.testCompile(group,name,version)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

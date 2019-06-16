@@ -1,0 +1,24 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ReKu Test" uuid="d3d27b73-16a0-40bc-a760-6305a1e6fed0">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://db10056:1433;databaseName=SDB_TEST</jdbc-url>
+      <libraries>
+        <library>
+          <url>jar://$MAVEN_REPOSITORY$/net/sourceforge/jtds/jtds/1.2.4/jtds-1.2.4.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="ReKu Perf" uuid="2cff6a45-ef43-4336-943d-9abf10acfadb">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://DB10008-02;Instance=PRODUSENT;databaseName=SDB_PERF</jdbc-url>
+      <libraries>
+        <library>
+          <url>jar://$MAVEN_REPOSITORY$/net/sourceforge/jtds/jtds/1.2.4/jtds-1.2.4.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</application>

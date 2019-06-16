@@ -1,0 +1,8 @@
+<application>
+  <component name="ScalaSettings">
+    <option name="SHOW_TYPE_TOOLTIP_ON_MOUSE_HOVER" value="true" />
+    <option name="SHOW_TYPE_TOOLTIP_DELAY" value="200" />
+    <option name="COMPILE_SERVER_ID" value="02c7dde5-7cb4-485d-81a3-e221dd76fe02" />
+    <option name="COMPILE_SERVER_SDK" value="1.7" />
+  </component>
+</application>
