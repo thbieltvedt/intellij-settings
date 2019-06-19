@@ -1,7 +1,7 @@
 <keymap version="1" name="THB Mac" parent="Mac OS X">
   <action id="ActivateStructureToolWindow" />
   <action id="Back">
-    <keyboard-shortcut first-keystroke="shift ctrl left" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
@@ -10,7 +10,7 @@
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="Compare.SameVersion">
-    <keyboard-shortcut first-keystroke="meta g" second-keystroke="u" />
+    <keyboard-shortcut first-keystroke="meta g" second-keystroke="c" />
   </action>
   <action id="Console.History.Next" />
   <action id="Console.History.Previous" />
@@ -34,7 +34,7 @@
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="GotoLine" />
   <action id="IncrementWindowHeight" />
