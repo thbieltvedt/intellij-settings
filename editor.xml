@@ -1,4 +1,11 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
     <option name="LINE_SPACING" value="1.1" />
@@ -8,7 +15,6 @@
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />

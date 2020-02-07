@@ -1,11 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
-    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
-  </component>
   <component name="MarkdownFoldingSettings">
     <option name="COLLAPSE_JEKYLL_FRONT_MATTER" value="true" />
   </component>
