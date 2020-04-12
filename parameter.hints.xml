@@ -8,5 +8,14 @@
         <added pattern="org.gradle.script.lang.kotlin.testCompile(group,name,version)" />
       </blacklist>
     </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="TypeScript" />
+      <language id="Angular2Html" />
+      <language id="JavaScript" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>
