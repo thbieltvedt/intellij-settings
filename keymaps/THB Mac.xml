@@ -9,9 +9,6 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
-  <action id="Compare.SameVersion">
-    <keyboard-shortcut first-keystroke="meta g" second-keystroke="u" />
-  </action>
   <action id="Console.History.Next" />
   <action id="Console.History.Previous" />
   <action id="DecrementWindowHeight" />
@@ -36,7 +33,6 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
-  <action id="GotoLine" />
   <action id="IncrementWindowHeight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
