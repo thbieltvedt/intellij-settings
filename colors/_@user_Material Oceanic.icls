@@ -4,7 +4,7 @@
     <property name="created">2019-05-18T13:49:22</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2020-04-13T00:55:29</property>
+    <property name="modified">2020-09-12T20:18:02</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <console-font>
@@ -60,7 +60,7 @@
     <option name="RECENT_LOCATIONS_SELECTION" value="1b2529" />
     <option name="RIGHT_MARGIN_COLOR" value="37474f" />
     <option name="SELECTED_INDENT_GUIDE" value="9688" />
-    <option name="SELECTED_TEARLINE_COLOR" value="9688" />
+    <option name="SELECTED_TEARLINE_COLOR" value="ecca6d" />
     <option name="SELECTION_BACKGROUND" value="314549" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b4950" />
@@ -72,10 +72,10 @@
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="968880" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="263238" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="9688" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="113643" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="431f11" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="263238" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="9688c0" />
-    <option name="ScrollBar.Mac.thumbColor" value="113643" />
+    <option name="ScrollBar.Mac.thumbColor" value="431f11" />
     <option name="ScrollBar.Mac.trackColor" value="263238" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="9688c0" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="9688c0" />
@@ -89,7 +89,7 @@
     <option name="ScrollBar.thumbBorderColor" value="9688c0" />
     <option name="ScrollBar.thumbColor" value="9688c0" />
     <option name="ScrollBar.trackColor" value="263238" />
-    <option name="TEARLINE_COLOR" value="3b4950" />
+    <option name="TEARLINE_COLOR" value="ecca6d" />
     <option name="TOOLTIP" value="32424a" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
@@ -317,7 +317,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="b2ccd6" />
@@ -975,13 +974,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_PARENTH">
       <value>
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -15281,8 +15278,8 @@
     <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd92ea" />
@@ -15446,7 +15443,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="osmorc.attributeName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="osmorc.attributeName" baseAttributes="" />
     <option name="osmorc.headerName">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
