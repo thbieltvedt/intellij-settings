@@ -1,5 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="1" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
     <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
@@ -18,6 +20,13 @@
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="kotlin.KotlinLambdasHintsProvider" />
+      </set>
+    </option>
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
