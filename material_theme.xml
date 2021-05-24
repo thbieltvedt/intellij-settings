@@ -6,10 +6,11 @@
     <option name="themedScrollbars" value="false" />
     <option name="upperCaseTabs" value="true" />
     <option name="useMaterialFont2" value="true" />
+    <option name="useMaterialWallpapers" value="true" />
     <option name="settingsSelectedTab" value="4" />
     <option name="accentColor" value="ffcb6b" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="-67f5dfe6:16acac669a2:-8000" />
-    <option name="version" value="6.4.1" />
+    <option name="version" value="6.5.0.1" />
   </component>
 </application>
