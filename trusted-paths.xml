@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Dev/GitHub/thb-monorepo/components" />
+        <option value="$USER_HOME$/Dev/GitHub/thb-monorepo/cloud-functions" />
       </list>
     </option>
   </component>
