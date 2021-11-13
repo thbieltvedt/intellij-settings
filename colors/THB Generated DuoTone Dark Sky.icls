@@ -3,7 +3,7 @@
     <property name="created">2021-11-13T17:42:21</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-11-13T17:43:22</property>
+    <property name="modified">2021-11-13T18:17:15</property>
     <property name="originalScheme">THB DuoTone Dark Sky  - 2</property>
   </metaInfo>
   <colors>
@@ -971,12 +971,6 @@
     <option name="DEFAULT_BRACKETS">
       <value>
         <option name="FOREGROUND" value="eceff4" />
-      </value>
-    </option>
-    <option name="DEFAULT_CLASS_NAME">
-      <value>
-        <option name="FOREGROUND" value="123456" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
