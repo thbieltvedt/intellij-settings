@@ -1,10 +1,10 @@
-<scheme name="THB DuoTone Dark Sky" version="142" parent_scheme="Darcula">
+<scheme name="THB DuoTone Dark Sky  - 1" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-11-13T13:25:36</property>
+    <property name="created">2021-11-13T14:05:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-11-13T13:33:04</property>
-    <property name="originalScheme">THB Nord Oceanic</property>
+    <property name="modified">2021-11-13T14:07:00</property>
+    <property name="originalScheme">THB DuoTone Dark Sky</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
@@ -88,7 +88,7 @@
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8fbcbb" />
+        <option name="FOREGROUND" value="715f95" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -1102,12 +1102,12 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="81a1c1" />
+        <option name="FOREGROUND" value="715f95" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="d8dee9" />
+        <option name="FOREGROUND" value="cab2fa" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -1120,11 +1120,7 @@
         <option name="FOREGROUND" value="88c0d0" />
       </value>
     </option>
-    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="d8dee9" />
-      </value>
-    </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="DEFAULT_REASSIGNED_PARAMETER">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
@@ -1137,7 +1133,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="d8dee9" />
+        <option name="FOREGROUND" value="cab2fa" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2213,7 +2209,7 @@
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8fbcbb" />
+        <option name="FOREGROUND" value="fec38f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2688,11 +2684,7 @@
         <option name="FOREGROUND" value="eceff4" />
       </value>
     </option>
-    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="d8dee9" />
-      </value>
-    </option>
+    <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER" baseAttributes="KOTLIN_PARAMETER" />
     <option name="KOTLIN_COMMA">
       <value>
         <option name="FOREGROUND" value="eceff4" />
@@ -2747,19 +2739,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="KOTLIN_EXTENSION_PROPERTY">
-      <value>
-        <option name="FOREGROUND" value="88c0d0" />
-      </value>
-    </option>
     <option name="KOTLIN_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="fec38f" />
-      </value>
-    </option>
-    <option name="KOTLIN_INSTANCE_PROPERTY">
-      <value>
-        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="KOTLIN_INVALID_STRING_ESCAPE">
@@ -2787,29 +2769,13 @@
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="8fbcbb" />
-      </value>
-    </option>
-    <option name="KOTLIN_OPERATION_SIGN">
-      <value>
-        <option name="FOREGROUND" value="81a1c1" />
+        <option name="FOREGROUND" value="715f95" />
       </value>
     </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="f1ebff" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_PACKAGE_PROPERTY">
-      <value>
-        <option name="FOREGROUND" value="d8dee9" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="KOTLIN_PARENTHESIS">
@@ -2834,7 +2800,7 @@
     </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value>
-        <option name="FOREGROUND" value="88c0d0" />
+        <option name="FOREGROUND" value="f1ebff" />
         <option name="EFFECT_COLOR" value="88c0d0" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -2848,7 +2814,7 @@
     </option>
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="81a1c1" />
+        <option name="FOREGROUND" value="cab2fa" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2857,33 +2823,24 @@
         <option name="FOREGROUND" value="ebcb8b" />
       </value>
     </option>
-    <option name="KOTLIN_SYNTHETIC_EXTENSION_PROPERTY">
-      <value>
-        <option name="FOREGROUND" value="88c0d0" />
-      </value>
-    </option>
-    <option name="KOTLIN_TYPE_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="8fbcbb" />
-      </value>
-    </option>
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="KOTLIN_VARIABLE_AS_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="88c0d0" />
+        <option name="FOREGROUND" value="f1ebff" />
         <option name="EFFECT_COLOR" value="d8dee9" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
       <value>
-        <option name="FOREGROUND" value="88c0d0" />
+        <option name="FOREGROUND" value="f1ebff" />
         <option name="EFFECT_COLOR" value="d8dee9" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="KOTLIN_WRAPPED_INTO_REF">
       <value>
-        <option name="FOREGROUND" value="8fbcbb" />
+        <option name="FOREGROUND" value="cab2fa" />
       </value>
     </option>
     <option name="LAMBDA_PARAMETER_ATTRIBUTES">
@@ -3062,11 +3019,6 @@
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="88c0d0" />
-      </value>
-    </option>
-    <option name="LOCAL_VARIABLE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
@@ -4006,11 +3958,6 @@
         <option name="FOREGROUND" value="d8dee9" />
         <option name="EFFECT_COLOR" value="d8dee9" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="d8dee9" />
       </value>
     </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
@@ -5256,7 +5203,7 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8fbcbb" />
+        <option name="FOREGROUND" value="715f95" />
       </value>
     </option>
     <option name="TYPO">
