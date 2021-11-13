@@ -1,10 +1,10 @@
-<scheme name="THB Nord Oceanic" version="142" parent_scheme="Darcula">
+<scheme name="THB DuoTone Dark Sky" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-11-13T11:54:53</property>
+    <property name="created">2021-11-13T13:25:36</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-11-13T12:32:26</property>
-    <property name="originalScheme">THB Nord experimental</property>
+    <property name="modified">2021-11-13T13:33:04</property>
+    <property name="originalScheme">THB Nord Oceanic</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
@@ -975,12 +975,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="fec38f" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="8fbcbb" />
+        <option name="FOREGROUND" value="ff2c47" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -1028,7 +1028,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="88c0d0" />
+        <option name="FOREGROUND" value="f1ebff" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -1059,7 +1059,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="8fbcbb" />
+        <option name="FOREGROUND" value="fec38f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1072,7 +1072,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="81a1c1" />
+        <option name="FOREGROUND" value="b07745" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -1087,17 +1087,17 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="d8dee9" />
+        <option name="FOREGROUND" value="cab2fa" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="8fbcbb" />
+        <option name="FOREGROUND" value="fec38f" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="a3be8c" />
+        <option name="FOREGROUND" value="cab2fa" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -1149,7 +1149,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="a3be8c" />
+        <option name="FOREGROUND" value="cab2fa" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -2306,11 +2306,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="81a1c1" />
-      </value>
-    </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="616e88" />
@@ -2693,11 +2688,6 @@
         <option name="FOREGROUND" value="eceff4" />
       </value>
     </option>
-    <option name="KOTLIN_BUILTIN_ANNOTATION">
-      <value>
-        <option name="FOREGROUND" value="81a1c1" />
-      </value>
-    </option>
     <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
@@ -2741,7 +2731,7 @@
     </option>
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="88c0d0" />
+        <option name="FOREGROUND" value="f1ebff" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -2751,6 +2741,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="f1ebff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="KOTLIN_EXTENSION_PROPERTY">
       <value>
         <option name="FOREGROUND" value="88c0d0" />
@@ -2758,7 +2754,7 @@
     </option>
     <option name="KOTLIN_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="fec38f" />
       </value>
     </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
@@ -2773,11 +2769,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="KOTLIN_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="81a1c1" />
-      </value>
-    </option>
     <option name="KOTLIN_LABEL">
       <value>
         <option name="FOREGROUND" value="5e81ac" />
@@ -2788,14 +2779,9 @@
         <option name="FOREGROUND" value="616e88" />
       </value>
     </option>
-    <option name="KOTLIN_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="d8dee9" />
-      </value>
-    </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="d8dee9" />
+        <option name="EFFECT_COLOR" value="cab2fa" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2811,7 +2797,7 @@
     </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="88c0d0" />
+        <option name="FOREGROUND" value="f1ebff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2874,12 +2860,6 @@
     <option name="KOTLIN_SYNTHETIC_EXTENSION_PROPERTY">
       <value>
         <option name="FOREGROUND" value="88c0d0" />
-      </value>
-    </option>
-    <option name="KOTLIN_TRAIT">
-      <value>
-        <option name="FOREGROUND" value="8fbcbb" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_TYPE_PARAMETER">
