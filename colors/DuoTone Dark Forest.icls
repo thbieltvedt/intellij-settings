@@ -3,7 +3,7 @@
     <property name="created">2021-11-17T22:33:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-11-17T22:51:34</property>
+    <property name="modified">2021-11-17T23:44:53</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -40,9 +40,7 @@
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="9bff39" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_COMMA">
       <value>
@@ -90,6 +88,11 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="99a659" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="738273" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -156,6 +159,13 @@
       <value>
         <option name="FOREGROUND" value="ddf8dd" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="ddf8dd" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
