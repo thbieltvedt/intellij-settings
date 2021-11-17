@@ -1,10 +1,10 @@
-<scheme name="DuoTone Dark Forest" version="142" parent_scheme="Darcula">
+<scheme name="THB DuoTone Dark Forest" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-11-17T22:33:14</property>
+    <property name="created">2021-11-17T23:57:25</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-11-17T23:44:53</property>
-    <property name="originalScheme">_@user_Darcula</property>
+    <property name="modified">2021-11-18T00:03:34</property>
+    <property name="originalScheme">DuoTone Dark Forest</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e887" />
@@ -26,6 +26,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="GUTTER_BACKGROUND" value="263238" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -142,6 +143,11 @@
         <option name="FOREGROUND" value="e7f98b" />
       </value>
     </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="869886" />
+      </value>
+    </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ddf8dd" />
@@ -164,7 +170,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ddf8dd" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="BACKGROUND" value="263238" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
