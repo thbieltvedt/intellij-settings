@@ -1,11 +1,11 @@
-<scheme name="Material Oceanic Modified" version="142" parent_scheme="Darcula">
+<scheme name="THB Material Oceanic" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-04-13T01:34:58</property>
+    <property name="created">2021-11-13T11:55:52</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-13T01:35:15</property>
-    <property name="originalScheme">Material Oceanic copy1</property>
+    <property name="ideVersion">2021.2.0.0</property>
+    <property name="modified">2021-11-13T11:56:30</property>
+    <property name="originalScheme">Material Oceanic Modified</property>
   </metaInfo>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -214,7 +214,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -317,7 +317,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="b2ccd6" />
@@ -961,8 +960,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JAVA.MODIFIER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -975,13 +972,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_PARENTH">
       <value>
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -14857,7 +14852,6 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -15277,12 +15271,12 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
-    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type Alias" baseAttributes="" />
+    <option name="Scala Type parameter" baseAttributes="" />
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd92ea" />
@@ -15446,7 +15440,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="osmorc.attributeName" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="osmorc.attributeName" baseAttributes="" />
     <option name="osmorc.headerName">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
