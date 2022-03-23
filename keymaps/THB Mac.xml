@@ -12,6 +12,7 @@
   <action id="Console.History.Next" />
   <action id="Console.History.Previous" />
   <action id="DecrementWindowHeight" />
+  <action id="Diff.PrevChange" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
