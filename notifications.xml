@@ -54,7 +54,7 @@
     <notification groupId="Test Runner" displayType="NONE" />
     <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
     <notification groupId="update.available.group" displayType="STICKY_BALLOON" />
-    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Important Messages" displayType="NONE" />
     <notification groupId="Vcs Minor Notifications" />
   </component>
 </application>
