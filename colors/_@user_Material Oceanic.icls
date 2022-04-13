@@ -4,7 +4,7 @@
     <property name="created">2019-05-18T13:49:22</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2022-03-23T22:35:13</property>
+    <property name="modified">2022-04-13T11:03:50</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3676,8 +3676,8 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
-    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type Alias" baseAttributes="" />
+    <option name="Scala Type parameter" baseAttributes="" />
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
