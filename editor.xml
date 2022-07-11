@@ -27,6 +27,8 @@
     <option name="disabledHintProviderIds">
       <set>
         <option value="kotlin.KotlinLambdasHintsProvider" />
+        <option value="kotlin.kotlin.call.chains.hints" />
+        <option value="kotlin.kotlin.lambdas.hints" />
         <option value="kotlin.microservices.url.path.inlay.hints" />
       </set>
     </option>
